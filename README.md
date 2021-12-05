@@ -1,8 +1,8 @@
 # CIS5755
 CIS5755
 #1. Group information
-    Group Member 1 - Venkata Sai Subrahmanyam Revanth, Borusu
-    Group Member 2 - Rajasekhar Y
+    #Group Member 1 - Venkata Sai Subrahmanyam Revanth, Borusu
+    #Group Member 2 - Rajasekhar Y
 
 #2. Github URL - https://revanthborusu.github.io/CIS5755/
     Github repository URL - https://github.com/revanthborusu/CIS5755.git
