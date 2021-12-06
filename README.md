@@ -8,7 +8,7 @@
 				<br>
 			<h3>#2. Github URL -   <a href="https://revanthborusu.github.io/CIS5755/">https://revanthborusu.github.io/CIS5755/</a> </h3>
 			     Github repository URL - <a href="https://github.com/revanthborusu/CIS5755.git">https://github.com/revanthborusu/CIS5755.git</a>
-			<div> end </div>
+			<div> end line </div>
 			<br>
 				<br>
 			<h3>#3. How your group work together (activities, hours used for each activity etc)?  </h3>
