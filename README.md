@@ -31,7 +31,7 @@
 	git status
 	git commit -m "first commit"
 	git push
-	Entered the GITHUB username and Access token
+	Entered the Github username and Access token.
 9. Modified files are pushed to Github and In the Github, latest changes are reflected.
 			</pre>
 		</div>
