@@ -8,14 +8,11 @@
 				<br>
 			<h3>#2. Github URL -   <a href="https://revanthborusu.github.io/CIS5755/">https://revanthborusu.github.io/CIS5755/</a> </h3>
 			     Github repository URL - <a href="https://github.com/revanthborusu/CIS5755.git">https://github.com/revanthborusu/CIS5755.git</a>
-			<div> end line </div>
 			<br>
 				<br>
 			<h3>#3. How your group work together (activities, hours used for each activity etc)?  </h3>
-				<p>I and Rajasekhar connected in Zoom multiple times, discussed on the project, and worked on it. We worked for 2 days, 2.5 Hrs. each day.</p> 
-
-			<br><br>
-				
+				<p>I and Rajasekhar connected in Zoom multiple times, discussed on the project, and worked on it. We worked for 2 days, 2.5 Hrs. each day.</p>
+			<br><br>	
 			<h3>#4. Project Introduction </h3>
 			    Host a Static website in GITHUB using Flask. <br>
 				<br>
